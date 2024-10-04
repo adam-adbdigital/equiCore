@@ -1,0 +1,17 @@
+vendor/
+templates/
+content/
+move_out.sh
+move_in.sh
+theme_tests.sh
+bower_components/
+node_modules/
+dandelion.yml
+scss/navigation/luxbar
+scss/navigation/_luxbar.scss
+.DS_Store
+html
+w3cErrors/
+.vscode
+composer.lock
+package.lock
